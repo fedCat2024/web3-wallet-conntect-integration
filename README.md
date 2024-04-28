@@ -1,0 +1,1 @@
+Welcome to the Wallet Software Development Kit (SDK) documentation. This SDK is designed to empower third-party Decentralized Applications (DApps) by enabling seamless integration with the certain wallet. By leveraging the SDK, developers can enhance their DApp's user experience and provide seamless access to the advanced features of the centain Web3 wallet.
